@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 function Navbar() {
   return (
-    <div className="sticky top-0 z-50 border-b border-gray-700 shadow-md backdrop-blur-md bg-black/40">
+    <div className="sticky top-0 z-50 border-b border-gray-700 shadow-md bg-black/60 backdrop-blur-md">
       <div className="px-4 mx-auto text-white navbar max-w-7xl">
         
         {/* Left: Dropdown */}
